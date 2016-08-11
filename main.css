@@ -1,0 +1,15 @@
+.moviesList {
+  display: flex;
+  flex-wrap: column wrap;
+  justify-content: space-around;
+}
+
+.moviesList article {
+  width: 400px;
+  margin: 10px;
+}
+
+picture {
+  overflow: hidden;
+  text-align: center;
+}

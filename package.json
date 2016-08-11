@@ -1,0 +1,25 @@
+{
+  "name": "infoSeriesAndMovies",
+  "version": "1.0.0",
+  "description": "Informacion de series y peliculas",
+  "main": "app.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "Jorge Calle",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "materialize-css": "^0.97.7",
+    "ngcomponentrouter": "^2.1.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.13.2",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.13.2",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
